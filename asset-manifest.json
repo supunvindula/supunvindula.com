@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "https://www.supunvindula.com/static/css/main.fbc00891.css",
+    "main.js": "https://www.supunvindula.com/static/js/main.4cf1a222.js",
+    "index.html": "https://www.supunvindula.com/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.4cf1a222.js"
+  ]
+}
