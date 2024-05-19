@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "https://www.supunvindula.com/static/css/main.b8f9def1.css",
-    "main.js": "https://www.supunvindula.com/static/js/main.c15cb9d4.js",
-    "index.html": "https://www.supunvindula.com/index.html",
-    "main.b8f9def1.css.map": "https://www.supunvindula.com/static/css/main.b8f9def1.css.map",
-    "main.c15cb9d4.js.map": "https://www.supunvindula.com/static/js/main.c15cb9d4.js.map"
+    "main.css": "/static/css/main.347bbdf5.css",
+    "main.js": "/static/js/main.f6aa50d1.js",
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.b8f9def1.css",
-    "static/js/main.c15cb9d4.js"
+    "static/css/main.347bbdf5.css",
+    "static/js/main.f6aa50d1.js"
   ]
 }
