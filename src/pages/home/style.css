@@ -94,7 +94,6 @@ section {
 .intro_sec .h_bg-image {
     background-size: cover;
     background-position: center;
-    min-height: 700px;
     position: relative;
 }
 
@@ -194,8 +193,6 @@ section {
 
 @media (max-width:991.98px) {
     .intro_sec .h_bg-image {
-        height: 600px;
-        min-height: 75vh;
         margin-bottom: 30px;
     }
     .intro_sec .h_bg-image .block {
@@ -231,4 +228,13 @@ section {
 
 .intro_sec .h_bg-image {
     filter: saturate(0.5);
+}
+
+.intro_sec .h_bg-image {
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-top: 4rem;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
 }
