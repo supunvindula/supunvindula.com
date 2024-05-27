@@ -7,8 +7,8 @@ const meta = {
 const introdata = {
     title: "I’m Supun Imbulana",
     animated: {
-        first: "I love marketing",
-        second: "I code cool websites",
+        first: "I love developing",
+        second: "I code cool web apps",
         third: "I do my best",
     },
     description: "I am an experienced digital marketing specialist and software engineer with over three years of expertise in the dynamic fields of digital marketing, graphic design, web development, and full-stack development. My strong drive for learning and innovation, combined with a proven track record in both disciplines, positions me to excel and drive innovation.",
